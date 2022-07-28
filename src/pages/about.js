@@ -134,4 +134,4 @@ const About = () => {
 
 export default About;
 
-// The CSS for this page was writted by Dom and Gareth, if it does not work, we did not write it... ¬_¬ 
+// the CSS for this page was writted by Dom and Gareth, if it does not work, we did not write it... ¬_¬ 
